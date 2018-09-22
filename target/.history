@@ -1,0 +1,5 @@
+run
+run org.bat.problem1.Solution
+run --help
+run
+exit
