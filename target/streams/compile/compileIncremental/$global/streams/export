@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\ajayt\.sbt\boot\scala-2.12.6\lib\scala-library.jar -classpath D:\MyProjects\problems_99\target\scala-2.12\classes D:\MyProjects\problems_99\src\main\scala\org\bat\problem\Problem3.scala
