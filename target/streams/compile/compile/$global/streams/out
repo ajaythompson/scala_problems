@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mD:\MyProjects\problems_99\src\main\scala\org\bat\problem\Problem3.scala:8:26: not found: type ArrayOutOfBoundException[0m
-[0m[[0m[31merror[0m] [0m[0m			case Nil => throw new ArrayOutOfBoundException[0m
-[0m[[0m[31merror[0m] [0m[0m			                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
